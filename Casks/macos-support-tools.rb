@@ -13,7 +13,7 @@ cask "macos-support-tools" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "macos-support-tools.app"
 
