@@ -1,6 +1,6 @@
 cask "macos-support-tools" do
-  version "1.3.1"
-  sha256 "1ee5235009925b89a9a8a1cb015ca301c4e53f82cd9351904b5b28ed6149a66d"
+  version "1.3.2"
+  sha256 "0036770042277702bbf66f9bc7a94dd1f653573c22ffe7181fc9582913ba4fa5"
 
   url "https://github.com/jacobmassih/macOS-support-tools/releases/download/v#{version}/macos-support-tools-#{version}-macos.zip"
   name "macos-support-tools"
